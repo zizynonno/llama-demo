@@ -15,7 +15,7 @@ llama_print_timings: prompt eval time =   37174.92 ms /    80 tokens (  464.69 m
 llama_print_timings:        eval time =   72638.51 ms /   354 runs   (  205.19 ms per token,     4.87 tokens per second)
 llama_print_timings:       total time =  111276.05 ms /   434 tokens
 
-    有名な世界遺産を10つご紹介します。その世界遺産をおすすめにする理由は、その歴史的価値や自然美です。
+有名な世界遺産を10つご紹介します。その世界遺産をおすすめにする理由は、その歴史的価値や自然美です。
 
 - ピザの塔 (イタリア) : 中世に建てられた塔で、当時の建築技術とデザインが魅力的です。
 - マチュピチュ (ペルー) : インカ帝国時代に築かれた都市遺跡で、高地にありながら緑豊かな景観は息を呑みます。
