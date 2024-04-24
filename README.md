@@ -1,3 +1,7 @@
+著名な世界遺産を10つ挙げてください。その時なぜその世界遺産がおすすめなのかを記載してください。
+
+という質問をllama-2-13b-japaneseに投げる
+
 /Users/hogehoge/code/llama-2-13b-japanese (main|●28519)% . .venv/bin/activate
 (.venv) /Users/hogehoge/code/llama-2-13b-japanese (main|●28519)% python3 main.py
 
